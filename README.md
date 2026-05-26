@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nuraddin-abdusharipov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nuraddin-abdusharipov?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nuraddin-abdusharipov?label=Total%20Stars&style=social" alt="Total Stars" />
 </p>
 
 ---
@@ -69,6 +70,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nuraddin-abdusharipov&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
@@ -80,7 +89,7 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://t.me/@PowerOf_coding">
+  <a href="https://t.me/PowerOf_coding">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:breakingnew770@gmail.com">
@@ -109,5 +118,5 @@
 ---
 
 <p align="center">
-  <b>Made with by Nuraddin</b>
+  <b>Made with ❤️ by Nuraddin</b>
 </p>
