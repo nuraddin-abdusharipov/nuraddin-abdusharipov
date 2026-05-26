@@ -5,7 +5,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nuraddin-abdusharipov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nuraddin-abdusharipov?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nuraddin-abdusharipov?label=Total%20Stars&style=social" alt="Total Stars" />
+</p>
+
+<!-- Total Stars - Dynamic -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.data.totalStars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fnuraddin-abdusharipov&style=social&logo=github" alt="Total Stars" />
 </p>
 
 ---
@@ -66,14 +70,6 @@
 
 <div align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddin-abdusharipov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nuraddin-abdusharipov&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
