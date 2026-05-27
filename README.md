@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/github/followers/nuraddin-abdusharipov?style=for-the-badge&color=00ff00&label=Followers" />
 
-  <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=Total%20Stars&query=%24.totalStars&url=https%3A%2F%2Fraw.githubusercontent.com%2Farifszn%2Fgithub-stars-counter%2Fmain%2Fusers%2Fnuraddin-abdusharipov.json&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/nuraddin-abdusharipov?affiliations=OWNER&style=for-the-badge&color=00ff00&label=TOTAL+STARS" />
 </p>
 
 ---
