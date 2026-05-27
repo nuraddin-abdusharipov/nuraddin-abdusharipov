@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/github/followers/nuraddin-abdusharipov?style=for-the-badge&color=00ff00&label=Followers" />
 
-  <img src="https://img.shields.io/github/stars/nuraddin-abdusharipov?affiliations=OWNER&style=for-the-badge&color=00ff00&label=TOTAL+STARS" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nuraddin-abdusharipov&theme=merko&hide_border=true&background=0D1117" />
 </p>
 
 ---
