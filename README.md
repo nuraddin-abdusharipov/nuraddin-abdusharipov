@@ -1,118 +1,63 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Nuraddin;AI+Control+Expert;Full+Stack+Developer;Mobile+Developer;Welcome+to+my+profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Nuraddin;AI+Control+Expert;Full+Stack+Developer;Mobile+Developer;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nuraddin-abdusharipov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nuraddin-abdusharipov?label=Followers&style=social" alt="Followers" />
-</p>
-
-<!-- Total Stars - Dynamic -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.data.totalStars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fnuraddin-abdusharipov&style=social&logo=github" alt="Total Stars" />
-</p>
-
----
-
-## 🧠 AI Control & Knowledge
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&width=435&lines=Prompt+Engineering;LLM+Integration;RAG+Systems;AI+API+Expert;Machine+Learning" alt="AI Skills" />
-</div>
-
-- 🤖 **LLM Models**: GPT-4, Claude, Gemini, Llama
-- 🎯 **Prompt Engineering** & Fine-tuning
-- 🔗 **AI API Integration** (OpenAI, Anthropic, Google AI)
-- 📚 **RAG** (Retrieval-Augmented Generation)
-- 🧠 **Machine Learning** fundamentals
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue" />
-  <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" />
-</div>
-
-### 📊 Chart & 3D
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=threejs" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
-</div>
-
-### ⚙️ Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs" />
-  <img src="https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</div>
-
-### 📱 Mobile
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
-</div>
-
-### 🔧 System Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuraddin-abdusharipov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring=00FF00&icon_color=00FF00" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?username=nuraddin-abdusharipov&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddin-abdusharipov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=400&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+Building+AI-powered+apps;📱+Cross-platform+mobile+development;🎨+3D+web+experiences+with+Three.js;🤖+Mastering+LLM+fine-tuning" />
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="https://t.me/PowerOf_coding">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:breakingnew770@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraddin-abdusharipov/nuraddin-abdusharipov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraddin-abdusharipov/nuraddin-abdusharipov/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/nuraddin-abdusharipov/nuraddin-abdusharipov/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🙏;Star+⭐+if+you+like+it;Keep+coding!+💻" />
-</div>
-
 ---
 
 <p align="center">
-  <b>Made with ❤️ by Nuraddin</b>
+  <img src="https://komarev.com/ghpvc/?username=nuraddin-abdusharipov&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/nuraddin-abdusharipov?style=for-the-badge&color=00ff00&label=Followers" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=Total%20Stars&query=%24.totalStars&url=https%3A%2F%2Fraw.githubusercontent.com%2Farifszn%2Fgithub-stars-counter%2Fmain%2Fusers%2Fnuraddin-abdusharipov.json&style=for-the-badge&logo=github" />
 </p>
+
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Nuraddin
+Role: Full Stack Developer
+Speciality:
+  - AI Systems
+  - Prompt Engineering
+  - Mobile Development
+  - Full Stack Web Apps
+  - RAG Systems
+
+Learning:
+  - Advanced AI
+  - Machine Learning
+  - LLM Fine-tuning
+  - Three.js
+
+Location: Uzbekistan
+🚀 AI Skills
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=GPT-4+%7C+Claude+%7C+Gemini+%7C+Llama;Prompt+Engineering;AI+Automation;RAG+Systems;Machine+Learning" /> </div>
+💻 Tech Stack
+🎨 Frontend
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" /> </div>
+⚙️ Backend
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,python,django,express,mongodb,firebase" /> </div>
+📱 Mobile Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,react" /> </div>
+🔧 Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" /> </div>
+📊 GitHub Stats
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuraddin-abdusharipov&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuraddin-abdusharipov&theme=merko&hide_border=true&background=0D1117" /> </div>
+<div align="center"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuraddin-abdusharipov&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nuraddin-abdusharipov&theme=matrix&no-frame=true&row=1&column=7" /> </div>
+⚡ Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuraddin-abdusharipov&theme=react-dark&bg_color=0D1117&hide_border=true&color=00ff00&line=00ff00&point=ffffff" /> </div>
+🎯 Current Focus
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=400&color=00FF00&center=true&vCenter=true&width=900&lines=Building+AI-powered+Apps;Cross-platform+Mobile+Development;Modern+UI%2FUX+Experiences;Mastering+LLM+Fine-tuning;Creating+Premium+Web+Apps" /> </div>
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraddin-abdusharipov/nuraddin-abdusharipov/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraddin-abdusharipov/nuraddin-abdusharipov/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/nuraddin-abdusharipov/nuraddin-abdusharipov/output/github-snake.svg" /> </picture> </div>
+🌐 Connect With Me
+<div align="center"> <a href="https://t.me/PowerOf_coding"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="mailto:breakingnew770@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+💭 Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Keep+Coding+🚀;Star+⭐+your+favorite+repositories!" /> </div>
+<h3 align="center"> 💚 Made with passion by Nuraddin </h3> ```
